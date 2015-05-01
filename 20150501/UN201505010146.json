@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505010146",
+    "requested_datetime": "2015-05-01 12:22:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "安南區府安路五段56巷 廟會髒亂",
+    "address_string": "安南區府安路五段56巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 17:38:04.0",
+    "expected_datetime": "2015-05-08 12:22:00.0"
+}

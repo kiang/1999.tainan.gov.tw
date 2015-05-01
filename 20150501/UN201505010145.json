@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505010145",
+    "requested_datetime": "2015-05-01 12:20:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "北區成大醫院勝利路上門口處 北區小東路未到勝利路路口處 北區舊台汽客運勝利路上 違停",
+    "address_string": "北區成大醫院勝利路上門口處 北區小東路未到勝利路路口處 北區舊台汽客運勝利路上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-08 12:20:00.0"
+}
