@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020164",
+    "requested_datetime": "2015-05-02 15:31:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "中西區萬昌街 路外停車場 佔用道路",
+    "address_string": "中西區萬昌街 路外停車場",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 15:31:00.0"
+}

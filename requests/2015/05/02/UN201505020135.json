@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020135",
+    "requested_datetime": "2015-05-02 13:23:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "新營區新進路二段77號以後 違停",
+    "address_string": "新營區新進路二段77號以後",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-02 14:53:00.0",
+    "expected_datetime": "2015-05-09 13:23:00.0"
+}

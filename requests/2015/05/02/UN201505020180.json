@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505020180",
+    "requested_datetime": "2015-05-02 16:36:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "新市區新市火車站右側 佔用道路",
+    "address_string": "面對新市火車站右側",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-02 16:36:00.0"
+}

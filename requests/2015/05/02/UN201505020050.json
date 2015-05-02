@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020050",
+    "requested_datetime": "2015-05-02 09:42:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "北區賢北國小的禮堂 妨礙安寧",
+    "address_string": "北區賢北國小的禮堂",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-02 14:32:21.0",
+    "expected_datetime": "2015-05-09 09:42:00.0"
+}

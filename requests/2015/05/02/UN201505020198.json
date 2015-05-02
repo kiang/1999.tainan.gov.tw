@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020198",
+    "requested_datetime": "2015-05-02 17:33:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "南區金華路二段399巷12弄與美南街口 違停",
+    "address_string": "南區金華路二段399巷12弄與美南街口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 17:33:00.0"
+}
