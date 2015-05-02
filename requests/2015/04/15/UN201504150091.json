@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150091",
+    "requested_datetime": "2015-04-15 09:59:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "其他汙染舉發",
+    "description": "永康區復華三街往高速公路便道右轉的紅綠燈下 汙染舉發",
+    "address_string": "永康區復華三街往高速公路便道右轉的紅綠燈下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 09:59:00.0"
+}

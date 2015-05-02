@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180208",
+    "requested_datetime": "2015-04-18 17:32:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "市區道路路面油漬",
+    "description": "安南區台江大道往北安路方向 十字路口 路面油漬",
+    "address_string": "安南區台江大道往北安路方向 十字路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 17:32:00.0"
+}

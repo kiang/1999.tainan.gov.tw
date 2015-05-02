@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504160229",
+    "requested_datetime": "2015-04-16 17:03:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "安南區安中路一段29巷(興華電創新有限公司)前面 孔蓋鬆動",
+    "address_string": "安南區安中路一段29巷(興華電創新有限公司)前面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-23 17:03:00.0"
+}

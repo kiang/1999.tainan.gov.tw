@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190127",
+    "requested_datetime": "2015-04-19 15:26:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "關廟區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "關廟區南雄路281號 空氣汙染",
+    "address_string": "關廟區南雄路281號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 15:26:00.0"
+}

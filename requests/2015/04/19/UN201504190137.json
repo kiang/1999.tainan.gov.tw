@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190137",
+    "requested_datetime": "2015-04-19 15:58:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "歸仁區文化街二段 文化國小前 佔用道路",
+    "address_string": "歸仁區文化街二段 文化國小前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 15:58:00.0"
+}

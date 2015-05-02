@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150158",
+    "requested_datetime": "2015-04-15 12:55:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "北區東豐路241號與239號之間 違停",
+    "address_string": "北區東豐路241號與239號之間",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 12:55:00.0"
+}

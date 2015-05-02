@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201504290096",
+    "requested_datetime": "2015-04-29 10:09:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "柳營奇美外台一線處 違停",
+    "address_string": "柳營奇美外台一線處",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 10:09:00.0"
+}

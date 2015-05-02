@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504160032",
+    "requested_datetime": "2015-04-16 08:09:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "大型廢棄物清運",
+    "description": "永康區大安街103號對面 大型廢棄物",
+    "address_string": "永康區大安街103號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-23 08:09:00.0"
+}

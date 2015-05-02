@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290355",
+    "requested_datetime": "2015-04-29 21:12:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "北區長榮路和開元路口 佔用人行道",
+    "address_string": "北區長榮路和開元路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-29 23:08:24.0",
+    "expected_datetime": "2015-05-06 21:12:00.0"
+}

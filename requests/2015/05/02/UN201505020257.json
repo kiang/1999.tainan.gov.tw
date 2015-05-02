@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020257",
+    "requested_datetime": "2015-05-02 21:04:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "永康區鹽洲二街160巷口 違停",
+    "address_string": "永康區鹽洲二街160巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-02 22:16:08.0",
+    "expected_datetime": "2015-05-09 21:04:00.0"
+}

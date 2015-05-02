@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300581",
+    "requested_datetime": "2015-04-30 12:58:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "北區勝利路407號 違停",
+    "address_string": "北區勝利路407號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 16:14:44.0",
+    "expected_datetime": "2015-05-07 12:58:00.0"
+}

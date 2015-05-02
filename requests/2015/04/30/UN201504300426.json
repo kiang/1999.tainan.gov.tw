@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300426",
+    "requested_datetime": "2015-04-30 08:30:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "交通疏導",
+    "description": "仁德交流道下來中山路 交通疏導",
+    "address_string": "仁德交流道下來的中山路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 15:51:55.0",
+    "expected_datetime": "2015-05-07 08:30:00.0"
+}

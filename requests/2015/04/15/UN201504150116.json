@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150116",
+    "requested_datetime": "2015-04-15 10:45:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "東區前鋒路110號 孔蓋鬆動",
+    "address_string": "東區前鋒路110號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 10:45:00.0"
+}

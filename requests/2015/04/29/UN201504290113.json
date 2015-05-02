@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290113",
+    "requested_datetime": "2015-04-29 10:29:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面下陷、凹陷",
+    "description": "安平區文平路462號 路面下陷",
+    "address_string": "安平區文平路462號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 17:22:16.0",
+    "expected_datetime": "2015-05-06 10:29:00.0"
+}

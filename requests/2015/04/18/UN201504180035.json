@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180035",
+    "requested_datetime": "2015-04-18 08:34:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "道路散落物",
+    "description": "南區過健康一街快到建平路上旁邊人行道 道路散落物",
+    "address_string": "南區過健康一街快到建平路上旁邊人行道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 08:34:00.0"
+}

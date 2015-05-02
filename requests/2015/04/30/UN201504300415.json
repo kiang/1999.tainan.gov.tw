@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300415",
+    "requested_datetime": "2015-04-30 08:16:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "永康區中華路饕公 空氣汙染",
+    "address_string": "永康區中華路738號饕公",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 15:57:20.0",
+    "expected_datetime": "2015-05-07 08:16:00.0"
+}

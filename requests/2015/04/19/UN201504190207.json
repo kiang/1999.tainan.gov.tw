@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190207",
+    "requested_datetime": "2015-04-19 20:19:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "寬頻管線、孔蓋損壞",
+    "description": "中西區興華街35巷內 孔蓋",
+    "address_string": "中西區興華街35巷內",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 20:19:00.0"
+}

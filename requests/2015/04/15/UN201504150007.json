@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150007",
+    "requested_datetime": "2015-04-15 05:06:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "永康區永大路二段128-5號 妨礙安寧",
+    "address_string": "永康區永大路二段128-5號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 05:06:00.0"
+}

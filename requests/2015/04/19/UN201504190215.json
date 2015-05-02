@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190215",
+    "requested_datetime": "2015-04-19 21:56:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區大學路麥當勞的對面車道(大學路22巷\/18巷交叉口的對向) 違停",
+    "address_string": "東區大學路麥當勞的對面車道(大學路22巷\/18巷交叉口的對向)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 21:56:00.0"
+}

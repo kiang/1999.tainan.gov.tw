@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150286",
+    "requested_datetime": "2015-04-15 18:13:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "龍崎區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "龍崎區龍船里後壁溪33號對面 路燈",
+    "address_string": "龍崎區龍船里後壁溪33號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 18:13:00.0"
+}

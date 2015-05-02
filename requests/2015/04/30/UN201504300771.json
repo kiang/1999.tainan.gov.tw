@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300771",
+    "requested_datetime": "2015-04-30 19:30:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "安南區府安路五段223巷 廟會妨礙安寧\/噪音\/交通疏導",
+    "address_string": "安南區府安路五段223巷",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-02 22:42:03.0",
+    "expected_datetime": "2015-05-07 19:30:00.0"
+}

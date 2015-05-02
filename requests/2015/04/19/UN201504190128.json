@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190128",
+    "requested_datetime": "2015-04-19 14:51:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "永康區大橋火車站前 違停",
+    "address_string": "永康區大橋火車站前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 14:51:00.0"
+}

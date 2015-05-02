@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290348",
+    "requested_datetime": "2015-04-29 20:54:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "10盞以上路燈故障",
+    "description": "安南區國安街及海佃路一段 大範圍路燈不亮",
+    "address_string": "安南區國安街及海佃路一段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 15:18:00.0",
+    "expected_datetime": "2015-05-06 20:54:00.0"
+}

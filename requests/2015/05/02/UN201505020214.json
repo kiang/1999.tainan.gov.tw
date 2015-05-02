@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020214",
+    "requested_datetime": "2015-05-02 18:24:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "大內區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "大內區頭社里(84快速道路下頭社交流道左轉斜坡處) 漏水",
+    "address_string": "大內區頭社里(84快速道路下頭社交流道左轉斜坡處)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 18:24:00.0"
+}

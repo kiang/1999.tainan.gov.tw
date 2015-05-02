@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190223",
+    "requested_datetime": "2015-04-19 22:52:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "空氣汙染-南區德興路325巷附近",
+    "address_string": "南區德興路325巷附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 22:52:00.0"
+}

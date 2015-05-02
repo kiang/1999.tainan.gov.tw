@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300811",
+    "requested_datetime": "2015-04-30 21:12:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "佳里區公園路260巷口 空氣污染",
+    "address_string": "佳里區公園路260巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 08:19:00.0",
+    "expected_datetime": "2015-05-07 21:12:00.0"
+}

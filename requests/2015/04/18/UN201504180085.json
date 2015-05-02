@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180085",
+    "requested_datetime": "2015-04-18 11:32:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "東區中華二路340號附近往家樂福方向 佔用路面",
+    "address_string": "東區中華二路340號附近往家樂福方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 11:32:00.0"
+}

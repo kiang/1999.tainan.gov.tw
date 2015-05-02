@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290228",
+    "requested_datetime": "2015-04-29 15:16:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區中華路396號前路燈不亮",
+    "address_string": "永康區中華路396號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 12:51:39.0",
+    "expected_datetime": "2015-05-06 15:16:00.0"
+}

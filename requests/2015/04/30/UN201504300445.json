@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300445",
+    "requested_datetime": "2015-04-30 09:15:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "安平區運河路及安平路口 違停",
+    "address_string": "安平區運河路及安平路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 17:26:00.0",
+    "expected_datetime": "2015-05-07 09:15:00.0"
+}

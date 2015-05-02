@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220299",
+    "requested_datetime": "2015-04-22 20:37:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "空氣污染-永康區四維街上(靠近歐洲世界)",
+    "address_string": "永康區四維街上(靠近歐洲世界)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 20:37:00.0"
+}

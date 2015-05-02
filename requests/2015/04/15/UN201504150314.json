@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150314",
+    "requested_datetime": "2015-04-15 20:27:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "東區崇德四街及五街附近 廟會妨礙安寧",
+    "address_string": "東區崇德四街及五街附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 20:27:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300788",
+    "requested_datetime": "2015-04-30 20:15:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "南區金華路二段141號 妨礙安寧",
+    "address_string": "南區金華路二段141號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 00:30:17.0",
+    "expected_datetime": "2015-05-07 20:15:00.0"
+}

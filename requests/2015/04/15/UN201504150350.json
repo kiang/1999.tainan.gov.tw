@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150350",
+    "requested_datetime": "2015-04-15 23:51:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "柳營區柳營科學園區(靠近重溪國小對面工廠)  噪音",
+    "address_string": "柳營區柳營科學園區(靠近重溪國小對面工廠)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 23:51:00.0"
+}

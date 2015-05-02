@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504160004",
+    "requested_datetime": "2015-04-16 02:29:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "南區明興路1310號(萬元廟)對面的巷子內  南區86快速道路\/中成路口往南的田間小路 空氣汙染",
+    "address_string": "南區明興路1310號(萬元廟)對面的巷子內  南區86快速道路\/中成路口往南的田間小路",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-23 02:29:00.0"
+}

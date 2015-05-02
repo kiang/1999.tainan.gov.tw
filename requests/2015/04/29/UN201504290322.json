@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290322",
+    "requested_datetime": "2015-04-29 19:24:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區長榮路三段和大學路口 違停",
+    "address_string": "東區長榮路三段和大學路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-29 21:36:01.0",
+    "expected_datetime": "2015-05-06 19:24:00.0"
+}

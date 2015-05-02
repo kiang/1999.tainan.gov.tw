@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180001",
+    "requested_datetime": "2015-04-18 00:02:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "北區公園路229號或231號 噪音\/妨礙安寧",
+    "address_string": "北區公園路229號或231號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 00:02:00.0"
+}

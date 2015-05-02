@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020246",
+    "requested_datetime": "2015-05-02 20:18:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "北區中華北路二段30巷附近 妨礙安寧",
+    "address_string": "區中華北路二段30巷附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 20:18:00.0"
+}

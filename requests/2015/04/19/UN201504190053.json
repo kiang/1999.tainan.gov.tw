@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504190053",
+    "requested_datetime": "2015-04-19 09:55:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "中西區五妃街105號 妨礙安寧",
+    "address_string": "中西區五妃街105號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-26 09:55:00.0"
+}

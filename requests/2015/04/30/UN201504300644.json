@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300644",
+    "requested_datetime": "2015-04-30 14:45:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "永康區勝華街整條 違停",
+    "address_string": "永康區勝華街整條",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 19:06:49.0",
+    "expected_datetime": "2015-04-30 14:45:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290246",
+    "requested_datetime": "2015-04-29 15:49:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面坑洞",
+    "description": "永康區文賢街70號坑洞",
+    "address_string": "永康區文賢街70號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 15:49:00.0"
+}

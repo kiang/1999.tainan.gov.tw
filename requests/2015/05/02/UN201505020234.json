@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020234",
+    "requested_datetime": "2015-05-02 19:40:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "10盞以上路燈故障",
+    "description": "麻豆區龍泉里102號之1 停電",
+    "address_string": "麻豆區龍泉里102號之1",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 19:40:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504290371",
+    "requested_datetime": "2015-04-29 22:19:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "永康區復興路71巷3號 路燈",
+    "address_string": "永康區復興路71巷3號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 22:19:00.0"
+}

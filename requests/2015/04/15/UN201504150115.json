@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150115",
+    "requested_datetime": "2015-04-15 10:51:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "北區臨安路二段912巷52號 妨礙安寧",
+    "address_string": "北區臨安路二段912巷52號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 10:51:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300571",
+    "requested_datetime": "2015-04-30 12:16:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "東區中華東路二段203巷66號 佔用道路",
+    "address_string": "東區中華東路二段203巷66號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 17:37:58.0",
+    "expected_datetime": "2015-05-07 12:16:00.0"
+}

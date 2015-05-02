@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020239",
+    "requested_datetime": "2015-05-02 19:45:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "北區和緯路上(育德路至西門路區段) 違停",
+    "address_string": "北區和緯路上(育德路至西門路區段)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 19:45:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300422",
+    "requested_datetime": "2015-04-30 08:27:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "官田區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "官田區隆田中山路一段 攤販擺攤",
+    "address_string": "官田區隆田中山路一段",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-07 08:27:00.0"
+}

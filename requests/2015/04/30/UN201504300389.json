@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201504300389",
+    "requested_datetime": "2015-04-30 00:24:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "南台科技大學3宿旁 妨礙安寧",
+    "address_string": "南台科技大學3宿旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-30 00:24:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180264",
+    "requested_datetime": "2015-04-18 22:28:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "動物救援",
+    "agency": "0",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "東區後甲里精忠三村1-31號 捕犬",
+    "address_string": "東區後甲里精忠三村1-31號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 22:28:00.0"
+}

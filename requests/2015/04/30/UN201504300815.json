@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300815",
+    "requested_datetime": "2015-04-30 21:29:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "安南區海佃路一段和府安路口 廟會妨礙安寧\/空汙",
+    "address_string": "安南區海佃路一段和府安路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 17:54:01.0",
+    "expected_datetime": "2015-05-07 21:29:00.0"
+}

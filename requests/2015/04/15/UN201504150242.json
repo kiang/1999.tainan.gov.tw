@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150242",
+    "requested_datetime": "2015-04-15 16:17:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "安南區安中路四段290巷291弄巷口 妨礙安寧",
+    "address_string": "安南區安中路四段290巷291弄巷口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 10:04:00.0",
+    "expected_datetime": "2015-04-22 16:17:00.0"
+}

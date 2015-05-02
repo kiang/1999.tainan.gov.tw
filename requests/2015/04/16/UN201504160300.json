@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504160300",
+    "requested_datetime": "2015-04-16 21:35:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "東區崇善十街及十一街附近 廟會妨礙安寧",
+    "address_string": "東區崇善十街及十一街附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-23 21:35:00.0"
+}

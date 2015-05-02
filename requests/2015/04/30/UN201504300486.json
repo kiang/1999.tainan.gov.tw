@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300486",
+    "requested_datetime": "2015-04-30 10:13:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區民生路二段(海安路口到郭綜合醫院) 違停",
+    "address_string": "中西區民生路二段(海安路口到郭綜合醫院)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 15:54:41.0",
+    "expected_datetime": "2015-05-07 10:13:00.0"
+}

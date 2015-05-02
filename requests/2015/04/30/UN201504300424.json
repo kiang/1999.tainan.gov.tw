@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300424",
+    "requested_datetime": "2015-04-30 08:29:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及污染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "夕遊出張所 空汙",
+    "address_string": "夕遊出張所",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 14:22:36.0",
+    "expected_datetime": "2015-05-07 08:29:00.0"
+}

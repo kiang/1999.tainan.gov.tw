@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505020225",
+    "requested_datetime": "2015-05-02 19:06:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "南區清水路路尾靠近安平港連外道路(丁字路口路旁) 漏水",
+    "address_string": "南區清水路路尾靠近安平港連外道路(丁字路口路旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-09 19:06:00.0"
+}

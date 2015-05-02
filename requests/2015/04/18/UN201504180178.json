@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180178",
+    "requested_datetime": "2015-04-18 15:57:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區北門路一段140號至台南火車站前 違停",
+    "address_string": "東區北門路一段140號至台南火車站前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 15:57:00.0"
+}

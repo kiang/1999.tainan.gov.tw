@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504150345",
+    "requested_datetime": "2015-04-15 23:08:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "中西區中成路56號 佔用道路",
+    "address_string": "中西區中成路56號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-22 23:08:00.0"
+}

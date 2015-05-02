@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504180146",
+    "requested_datetime": "2015-04-18 14:37:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "中西區協和街133之1號 噪音",
+    "address_string": "中西區協和街133之1號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-25 14:37:00.0"
+}
