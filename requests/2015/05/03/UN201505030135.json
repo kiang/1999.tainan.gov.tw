@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030135",
+    "requested_datetime": "2015-05-03 16:49:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "中西區民權路二段57號 佔用道路",
+    "address_string": "中西區民權路二段57號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 19:19:06.0",
+    "expected_datetime": "2015-05-10 16:49:00.0"
+}

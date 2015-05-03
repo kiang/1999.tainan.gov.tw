@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030028",
+    "requested_datetime": "2015-05-03 08:37:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區府前路二段176號 違停",
+    "address_string": "中西區府前路二段176號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 09:50:28.0",
+    "expected_datetime": "2015-05-10 08:37:00.0"
+}

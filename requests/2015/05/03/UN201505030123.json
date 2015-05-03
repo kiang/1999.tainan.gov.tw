@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030123",
+    "requested_datetime": "2015-05-03 16:02:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "南區聖南街21號隔壁 環境髒亂",
+    "address_string": "南區聖南街21號隔壁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-10 16:02:00.0"
+}

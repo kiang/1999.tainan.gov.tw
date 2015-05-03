@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200295",
+    "requested_datetime": "2015-04-20 18:51:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "佳里區鎮山街17巷19號旁空地 空氣汙染",
+    "address_string": "佳里區鎮山街17巷19號旁空地",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 18:51:00.0"
+}

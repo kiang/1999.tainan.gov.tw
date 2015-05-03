@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030121",
+    "requested_datetime": "2015-05-03 15:57:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "安南區安中路一段69號旁 環境髒亂",
+    "address_string": "安南區安中路一段69號旁",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-10 15:57:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030176",
+    "requested_datetime": "2015-05-03 19:48:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "東區仁和路252巷3號和東區仁和路252巷整條 佔用道路",
+    "address_string": "東區仁和路252巷3號和東區仁和路252巷整條",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 22:32:13.0",
+    "expected_datetime": "2015-05-10 19:48:00.0"
+}

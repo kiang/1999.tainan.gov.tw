@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030104",
+    "requested_datetime": "2015-05-03 14:49:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "佳里區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "佳里區蕭壠文化園區前方 違停",
+    "address_string": "佳里區蕭壠文化園區前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 17:30:56.0",
+    "expected_datetime": "2015-05-10 14:49:00.0"
+}

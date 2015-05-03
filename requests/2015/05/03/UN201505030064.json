@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030064",
+    "requested_datetime": "2015-05-03 11:20:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "南區新孝路\/中華西路一段口週邊區域 空氣汙染",
+    "address_string": "南區新孝路\/中華西路一段口週邊區域",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 16:16:17.0",
+    "expected_datetime": "2015-05-10 11:20:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030070",
+    "requested_datetime": "2015-05-03 11:51:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "北區公園路128號1樓 妨礙安寧",
+    "address_string": "北區公園路128號1樓",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 12:26:51.0",
+    "expected_datetime": "2015-05-10 11:51:00.0"
+}

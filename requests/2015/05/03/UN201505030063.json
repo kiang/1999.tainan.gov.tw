@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030063",
+    "requested_datetime": "2015-05-03 11:16:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "永康區復華三街65號隔壁路邊 環境髒亂",
+    "address_string": "永康區復華三街65號隔壁路邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 13:06:16.0",
+    "expected_datetime": "2015-05-10 11:16:00.0"
+}

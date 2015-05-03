@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030093",
+    "requested_datetime": "2015-05-03 14:19:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "歸仁區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "歸仁區武東三街46巷5號 妨礙安寧",
+    "address_string": "歸仁區武東三街46巷5號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 17:18:41.0",
+    "expected_datetime": "2015-05-10 14:19:00.0"
+}

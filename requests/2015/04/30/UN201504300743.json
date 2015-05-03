@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504300743",
+    "requested_datetime": "2015-04-30 18:19:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區興華街10號 違停",
+    "address_string": "中西區興華街10號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 19:36:03.0",
+    "expected_datetime": "2015-05-07 18:19:00.0"
+}

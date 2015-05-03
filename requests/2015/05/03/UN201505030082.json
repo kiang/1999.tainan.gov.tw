@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030082",
+    "requested_datetime": "2015-05-03 13:25:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區永福路(近民權路路口) 違停",
+    "address_string": "中西區永福路(近民權路路口)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 15:44:54.0",
+    "expected_datetime": "2015-05-10 13:25:00.0"
+}

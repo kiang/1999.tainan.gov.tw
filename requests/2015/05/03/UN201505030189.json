@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030189",
+    "requested_datetime": "2015-05-03 20:54:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "柳營重溪派出所週邊區域 空氣汙染",
+    "address_string": "柳營重溪派出所週邊區域 空氣汙染",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 22:46:17.0",
+    "expected_datetime": "2015-05-10 20:54:00.0"
+}

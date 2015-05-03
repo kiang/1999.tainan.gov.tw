@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200040",
+    "requested_datetime": "2015-04-20 09:05:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "環境髒亂",
+    "description": "中西區國華街三段240號和郡緯街路口 環境髒亂",
+    "address_string": "中西區國華街三段240號和郡緯街路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 09:05:00.0"
+}

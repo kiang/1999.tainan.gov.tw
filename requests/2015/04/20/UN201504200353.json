@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200353",
+    "requested_datetime": "2015-04-20 22:20:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "南區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "南區大同路二段482巷41號 廟會噪音\/妨礙安寧",
+    "address_string": "南區大同路二段482巷41號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 22:20:00.0"
+}

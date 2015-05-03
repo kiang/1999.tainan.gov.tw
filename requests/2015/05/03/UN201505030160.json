@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030160",
+    "requested_datetime": "2015-05-03 18:38:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區衛國街112巷1號雙側紅線 違停",
+    "address_string": "東區衛國街112巷1號雙側紅線",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-10 18:38:00.0"
+}

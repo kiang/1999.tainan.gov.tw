@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030084",
+    "requested_datetime": "2015-05-03 13:31:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區中華東路三段的德安百貨週邊區域 違停",
+    "address_string": "東區中華東路三段的德安百貨週邊區域",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 17:13:03.0",
+    "expected_datetime": "2015-05-10 13:31:00.0"
+}

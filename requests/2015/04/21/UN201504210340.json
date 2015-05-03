@@ -7,13 +7,13 @@
     "service_name": "噪音舉發",
     "agency": "0",
     "subproject": "妨害安寧",
-    "description": "妨礙噪音-歸仁區保興二街30號附近",
+    "description": "歸仁區保興二街30號附近 妨礙安寧",
     "address_string": "歸仁區保興二街30號附近",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-04-30 14:50:02.0",
+    "updated_datetime": "2015-04-30 14:50:00.0",
     "expected_datetime": "2015-04-28 21:17:00.0"
 }

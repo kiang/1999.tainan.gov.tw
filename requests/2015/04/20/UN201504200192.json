@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200192",
+    "requested_datetime": "2015-04-20 14:10:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "小廣告、旗幟",
+    "description": "安平區健康二街520幾號 小廣告",
+    "address_string": "安平區健康二街520幾號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 14:10:00.0"
+}

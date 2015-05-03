@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200012",
+    "requested_datetime": "2015-04-20 07:40:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "永康區台南應用科技大學到新行街全線 違停",
+    "address_string": "永康區台南應用科技大學到新行街全線",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 07:40:00.0"
+}

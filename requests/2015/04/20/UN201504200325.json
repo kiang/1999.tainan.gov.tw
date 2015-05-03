@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504200325",
+    "requested_datetime": "2015-04-20 20:08:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面坑洞",
+    "description": "安南區北安路三段308號威妮斯汽車商務旅館行道樹下 坑洞",
+    "address_string": "安南區北安路三段308號威妮斯汽車商務旅館行道樹下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-27 20:08:00.0"
+}

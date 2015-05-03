@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505030120",
+    "requested_datetime": "2015-05-03 15:56:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "後壁區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "後壁區小南海觀光盛地 佔用道路",
+    "address_string": "後壁區小南海觀光盛地",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-03 19:12:29.0",
+    "expected_datetime": "2015-05-10 15:56:00.0"
+}
