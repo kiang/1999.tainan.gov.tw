@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504210155",
+    "requested_datetime": "2015-04-21 12:45:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "麻豆區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "麻豆區安西里272號之3號 廟會妨礙安寧",
+    "address_string": "麻豆區安西里272號之3號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-04-30 17:14:00.0",
+    "expected_datetime": "2015-04-28 12:45:00.0"
+}

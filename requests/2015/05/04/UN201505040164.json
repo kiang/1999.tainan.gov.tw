@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040164",
+    "requested_datetime": "2015-05-04 11:52:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "學甲區",
+    "service_name": "騎樓舉發",
+    "agency": "0",
+    "subproject": "騎樓舉發",
+    "description": "學甲區濟生路(最熱鬧的路段) 佔用騎樓",
+    "address_string": "學甲區濟生路(最熱鬧的路段)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 11:52:00.0"
+}

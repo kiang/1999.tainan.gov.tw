@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505040178",
+    "requested_datetime": "2015-05-04 12:44:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "北區長榮路五段452巷20號 空氣汙染",
+    "address_string": "北區長榮路五段452巷20號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 12:44:00.0"
+}
