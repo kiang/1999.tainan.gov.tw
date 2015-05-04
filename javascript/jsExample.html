@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>XMLTest</title>
+	<script type="text/javascript" src="tools/XMLWriter-1.0.0-min.js"></script>
+	<script type="text/javascript" src="request.js"></script>
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded", function(event) {
+			base64Generate();
+		});
+	</script>
+</head>
+<body>
+	<h3>部份功能</h3>
+	<div>
+		<p>JPG轉Base64</p>
+		<input id="imageUpload" type="file" name="my-image" id="image" accept="image/jpeg" />
+		<br/>
+		<p id="base64"></p>
+	</div>
+	<div>
+		<p>產生預設XML</p>
+		<button id="xmlGenerate" onclick="printxml()">Generate XML</button>
+		<br/>
+		<code id="output"></code>
+	</div>
+	<div>
+		<p>將預設XML送出</p>
+		<button id="requestSubmit" onclick="ajaxPost()">Submit Request</button>
+		<br/>
+		<div id="result"></div>
+	</div>
+</body>
+</html>
