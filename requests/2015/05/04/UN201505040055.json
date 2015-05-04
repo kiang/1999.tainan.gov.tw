@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040055",
+    "requested_datetime": "2015-05-04 09:03:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "永康區東橋三路482巷21號旁鐵軌附近 空氣污染",
+    "address_string": "永康區東橋三路482巷21號旁鐵軌附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 09:03:00.0"
+}
