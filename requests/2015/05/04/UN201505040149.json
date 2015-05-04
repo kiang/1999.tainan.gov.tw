@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040149",
+    "requested_datetime": "2015-05-04 11:25:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "北區文賢路295號跟297號中間 孔蓋鬆動",
+    "address_string": "北區文賢路295號跟297號中間",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 11:25:00.0"
+}

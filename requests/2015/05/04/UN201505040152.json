@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040152",
+    "requested_datetime": "2015-05-04 11:30:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "安平區永華六街194號 空氣污染",
+    "address_string": "安平區永華六街194號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 11:30:00.0"
+}
