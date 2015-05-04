@@ -29,12 +29,12 @@ $xmlWriter->startElement('email');
 $xmlWriter->writeCData('nobody@example.com');
 $xmlWriter->endElement();
 
-//$xmlWriter->startElement('device_id');
-//$xmlWriter->writeCData('well?');
-//$xmlWriter->endElement();
+$xmlWriter->startElement('device_id');
+$xmlWriter->writeCData('well?');
+$xmlWriter->endElement();
 
 $xmlWriter->startElement('name');
-$xmlWriter->writeCData('nobody');
+$xmlWriter->writeCData('沒有人');
 $xmlWriter->endElement();
 
 $xmlWriter->startElement('phone');
@@ -57,7 +57,6 @@ $xmlWriter->startElement('description');
 $xmlWriter->writeCData('這是個測試，請忽略');
 $xmlWriter->endElement();
 
-/*
 $xmlWriter->startElement('pictures');
 
 $xmlWriter->startElement('picture');
@@ -75,8 +74,6 @@ $xmlWriter->writeElement('file', base64_encode(file_get_contents(__DIR__ . '/tmp
 $xmlWriter->endElement();
 
 $xmlWriter->endElement();
- * 
- */
 
 $xmlWriter->endElement();
 
