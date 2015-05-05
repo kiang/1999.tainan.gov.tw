@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505050158",
+    "requested_datetime": "2015-05-05 13:38:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "安南區本田路安明路口 號誌",
+    "address_string": "安南區本田路安明路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-05 16:12:14.0",
+    "expected_datetime": "2015-05-12 13:38:00.0"
+}
