@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505050294",
+    "requested_datetime": "2015-05-05 18:50:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "0",
+    "subproject": "騎樓舉發",
+    "description": "永康區中華路236號 騎樓占用",
+    "address_string": "永康區中華路236號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-12 18:50:00.0"
+}
