@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040190",
+    "requested_datetime": "2015-05-04 13:08:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "新市區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "新市區社內里50之98號 空氣汙染",
+    "address_string": "新市區社內里50之98號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 13:08:00.0"
+}

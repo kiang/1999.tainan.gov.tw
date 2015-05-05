@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040340",
+    "requested_datetime": "2015-05-04 18:42:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "停電、漏電、電線掉落、孔蓋鬆動",
+    "description": "仁德區二仁路一段60號斜對面 漏水",
+    "address_string": "仁德區二仁路一段60號斜對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 18:42:00.0"
+}

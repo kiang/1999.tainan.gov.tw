@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040373",
+    "requested_datetime": "2015-05-04 20:53:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "新營區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "空氣汙染",
+    "description": "新營區隋唐街200號民雄餐廳和附近的全聯 空氣汙染",
+    "address_string": "新營區隋唐街200號民雄餐廳和附近的全聯",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 20:53:00.0"
+}

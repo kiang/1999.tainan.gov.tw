@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040281",
+    "requested_datetime": "2015-05-04 16:37:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "電信孔蓋鬆動、電信線路掉落、電信桿傾倒",
+    "description": "東區仁和路107巷74號前方 孔蓋鬆動",
+    "address_string": "東區仁和路107巷74號前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-11 16:37:00.0"
+}

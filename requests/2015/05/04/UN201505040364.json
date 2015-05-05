@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040364",
+    "requested_datetime": "2015-05-04 20:07:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "北區文成二路161號玉朝宮 廟會妨礙安寧\/ 噪音",
+    "address_string": "北區文成二路161號玉朝宮",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-04 23:00:46.0",
+    "expected_datetime": "2015-05-11 20:07:00.0"
+}

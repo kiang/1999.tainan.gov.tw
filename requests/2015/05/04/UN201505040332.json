@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040332",
+    "requested_datetime": "2015-05-04 18:27:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "騎樓舉發",
+    "agency": "0",
+    "subproject": "騎樓舉發",
+    "description": "中西區友愛街201巷左右兩邊 騎樓舉發",
+    "address_string": "中西區友愛街201巷左右兩邊",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-04 22:52:53.0",
+    "expected_datetime": "2015-05-04 18:27:00.0"
+}

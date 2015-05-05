@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040338",
+    "requested_datetime": "2015-05-04 18:41:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "東區富農街一段246號對面 路燈",
+    "address_string": "東區富農街一段246號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-05 09:46:00.0",
+    "expected_datetime": "2015-05-11 18:41:00.0"
+}

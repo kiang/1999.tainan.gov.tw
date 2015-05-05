@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040400",
+    "requested_datetime": "2015-05-04 23:05:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "左鎮區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "左鎮區榮和里玉南公路 台20線24.2K和24.3k附近 路燈故障",
+    "address_string": "左鎮區榮和里玉南公路 台20線24.2K和24.3k附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-05 11:09:33.0",
+    "expected_datetime": "2015-05-11 23:05:00.0"
+}

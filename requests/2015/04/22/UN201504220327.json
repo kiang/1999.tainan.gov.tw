@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220327",
+    "requested_datetime": "2015-04-22 22:49:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區(鐵軌旁)林森路一段地下道入口 榮譽街到中華東路三段490號旁的天橋底下 違停",
+    "address_string": "東區(鐵軌旁)林森路一段地下道入口 榮譽街到中華東路三段490號旁的天橋底下",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 22:49:00.0"
+}

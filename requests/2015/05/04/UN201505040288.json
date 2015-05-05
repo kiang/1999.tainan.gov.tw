@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505040288",
+    "requested_datetime": "2015-05-04 16:39:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "柳營區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "妨害安寧",
+    "description": "柳營區中山東路二段往柳營清潔隊方向  妨礙安寧",
+    "address_string": "柳營區中山東路二段往柳營清潔隊方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-04 22:42:47.0",
+    "expected_datetime": "2015-05-11 16:39:00.0"
+}
