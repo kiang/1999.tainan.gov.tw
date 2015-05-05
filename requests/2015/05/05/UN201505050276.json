@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505050276",
+    "requested_datetime": "2015-05-05 17:48:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "北區林森路三段153號之25附近 佔用道路",
+    "address_string": "北區林森路三段153號之25附近",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-05 17:48:00.0"
+}
