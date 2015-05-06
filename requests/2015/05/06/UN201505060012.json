@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505060012",
+    "requested_datetime": "2015-05-06 07:18:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "髒亂及汙染",
+    "agency": "0",
+    "subproject": "道路散落物",
+    "description": "過鹽水外環道路上的加油站未到殯儀館的雙黃線 道路散落物",
+    "address_string": "過鹽水外環道路上的加油站未到殯儀館的雙黃線",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-06 09:14:10.0",
+    "expected_datetime": "2015-05-13 07:18:00.0"
+}

@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505060007",
+    "requested_datetime": "2015-05-06 06:16:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "噪音舉發",
+    "agency": "0",
+    "subproject": "場所連續噪音",
+    "description": "東區林森路二段192巷24弄77號對面 噪音",
+    "address_string": "東區林森路二段192巷24弄77號對面",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-06 10:01:39.0",
+    "expected_datetime": "2015-05-13 06:16:00.0"
+}

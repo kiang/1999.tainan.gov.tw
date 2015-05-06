@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505060091",
+    "requested_datetime": "2015-05-06 10:39:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "永康區中正路(台南應用科大門口旁邊的禁停標誌周圍) 違停",
+    "address_string": "中正路(禁停標誌旁)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 10:39:00.0"
+}
