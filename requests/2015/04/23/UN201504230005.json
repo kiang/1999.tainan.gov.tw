@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504230005",
+    "requested_datetime": "2015-04-23 06:22:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "關廟區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "關廟區民權街147號 佔用道路",
+    "address_string": "關廟區民權街147號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-30 06:22:00.0"
+}

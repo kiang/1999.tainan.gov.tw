@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505060271",
+    "requested_datetime": "2015-05-06 18:13:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區文化派出所門口的停車格紅線上和對面匯豐銀行的消防栓旁也停了2台 違停",
+    "address_string": "東區文化派出所門口的停車格紅線上和對面匯豐銀行的消防栓旁也停了2台",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 18:13:00.0"
+}

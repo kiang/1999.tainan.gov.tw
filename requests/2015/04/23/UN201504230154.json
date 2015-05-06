@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504230154",
+    "requested_datetime": "2015-04-23 12:29:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區萬昌街(青年路到衛民街口) 興華街(青年路到北門路口) 西華南街60號 違停",
+    "address_string": "中西區萬昌街(青年路到衛民街口) 興華街(青年路到北門路口) 西華南街60號",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-30 12:29:00.0"
+}

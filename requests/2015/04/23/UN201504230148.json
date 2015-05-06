@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504230148",
+    "requested_datetime": "2015-04-23 12:01:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "仁德區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面下陷、凹陷",
+    "description": "仁德區中正路二段1088號前 凹陷",
+    "address_string": "仁德區中正路二段1088號前",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-01 14:27:00.0",
+    "expected_datetime": "2015-04-30 12:01:00.0"
+}
