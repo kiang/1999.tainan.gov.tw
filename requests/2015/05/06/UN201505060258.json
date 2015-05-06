@@ -1,7 +1,7 @@
 {
     "service_request_id": "UN201505060258",
     "requested_datetime": "2015-05-06 17:30:00.0",
-    "status": "未處理",
+    "status": "已完工",
     "keyword": "0",
     "area": "鹽水區",
     "service_name": "噪音舉發",
@@ -14,6 +14,6 @@
     "service_notice": {
 
     },
-    "updated_datetime": "null",
+    "updated_datetime": "2015-05-06 23:07:57.0",
     "expected_datetime": "2015-05-13 17:30:00.0"
 }
