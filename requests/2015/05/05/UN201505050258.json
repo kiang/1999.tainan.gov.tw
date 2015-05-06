@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505050258",
+    "requested_datetime": "2015-05-05 16:53:00.0",
+    "status": "已完工",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區崇善十一街17巷12弄 佔用道路",
+    "address_string": "東區崇善十一街17巷12弄",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "2015-05-05 19:40:00.0",
+    "expected_datetime": "2015-05-12 16:53:00.0"
+}

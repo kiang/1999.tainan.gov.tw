@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505060145",
+    "requested_datetime": "2015-05-06 12:08:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安南區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "安南區慶和路一段與環管路交叉處往東方向  佔用道路",
+    "address_string": "安南區慶和路一段與環管路交叉處往東方向",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-13 12:08:00.0"
+}

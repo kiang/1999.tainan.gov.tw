@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505060192",
+    "requested_datetime": "2015-05-06 14:41:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "中西區成功路大聖王朝及四季大樓的騎樓 違停",
+    "address_string": "中西區成功路大聖王朝及四季大樓的騎樓",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 14:41:00.0"
+}

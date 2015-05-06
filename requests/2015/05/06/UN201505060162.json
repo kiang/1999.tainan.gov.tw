@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505060162",
+    "requested_datetime": "2015-05-06 13:28:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "永康區",
+    "service_name": "騎樓舉發",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "永康區文賢街135號前方 佔用道路",
+    "address_string": "永康區文賢街135號前方",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-13 13:28:00.0"
+}

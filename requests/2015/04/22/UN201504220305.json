@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220305",
+    "requested_datetime": "2015-04-22 20:53:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "北區",
+    "service_name": "路燈故障",
+    "agency": "0",
+    "subproject": "9盞以下路燈故障",
+    "description": "北區東豐路(長榮路到林森路三段區間) 路燈",
+    "address_string": "北區東豐路(長榮路到林森路三段區間)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 20:53:00.0"
+}

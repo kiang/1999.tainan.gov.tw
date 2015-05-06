@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220237",
+    "requested_datetime": "2015-04-22 17:30:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "官田區",
+    "service_name": "民生管線",
+    "agency": "0",
+    "subproject": "漏水、停水、消防栓漏水或損壞",
+    "description": "官田區台一線360.5K處(官田營區附近)北上外側車道 漏水",
+    "address_string": "官田區台一線360.5K處(官田營區附近)北上外側車道",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 17:30:00.0"
+}

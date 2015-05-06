@@ -8,14 +8,12 @@
     "agency": "0",
     "subproject": "9盞以下路燈故障",
     "description": "永康區大橋一街139巷44弄和22弄 路燈",
-    "address_string": {
-
-    },
+    "address_string": "永康區大橋一街139巷44弄和22弄",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-06 09:18:31.0",
+    "updated_datetime": "2015-05-06 09:18:00.0",
     "expected_datetime": "2015-05-12 14:45:00.0"
 }

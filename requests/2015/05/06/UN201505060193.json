@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201505060193",
+    "requested_datetime": "2015-05-06 14:44:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "號誌故障",
+    "description": "安平區建平十一街與建平路路口 號誌故障",
+    "address_string": "建平十一街與建平路路口",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-13 14:44:00.0"
+}

@@ -1,5 +1,0 @@
-#!/bin/bash
-
-/usr/bin/php -q /home/kiang/public_html/tainan_1999/query.php
-
-cd /home/kiang/public_html/tainan_1999 && /usr/bin/git add -A

@@ -1,0 +1,21 @@
+{
+    "service_request_id": "UN201505060168",
+    "requested_datetime": "2015-05-06 13:40:00.0",
+    "status": {
+
+    },
+    "keyword": "0",
+    "area": "中西區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "運河旁中國石油加油站前的黃網線 違停",
+    "address_string": "運河旁中國石油加油站前的黃網線",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-05-06 13:40:00.0"
+}

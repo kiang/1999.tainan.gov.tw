@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220325",
+    "requested_datetime": "2015-04-22 22:36:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "鹽水區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面坑洞",
+    "description": "鹽水區南74鄉道上 朝琴路往戶政事務所方向 經過垃圾場後 坑洞",
+    "address_string": "鹽水區南74鄉道上 朝琴路往戶政事務所方向 經過垃圾場後",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 22:36:00.0"
+}
