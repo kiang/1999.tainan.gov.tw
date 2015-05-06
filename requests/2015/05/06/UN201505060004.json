@@ -7,13 +7,13 @@
     "service_name": "髒亂及汙染",
     "agency": "0",
     "subproject": "空氣汙染",
-    "description": "永康區埔園街接近四維街的區域 空汙",
+    "description": "永康區埔園街接近四維街的區域 空氣汙染",
     "address_string": "永康區埔園街接近四維街的區域",
     "lat": "0",
     "long": "0",
     "service_notice": {
 
     },
-    "updated_datetime": "2015-05-06 15:52:20.0",
+    "updated_datetime": "2015-05-06 15:52:00.0",
     "expected_datetime": "2015-05-13 02:27:00.0"
 }

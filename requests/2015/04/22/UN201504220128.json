@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220128",
+    "requested_datetime": "2015-04-22 12:41:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "白河區",
+    "service_name": "交通運輸",
+    "agency": "0",
+    "subproject": "佔用道路",
+    "description": "白河區康樂路上(白河市場對面) 佔用道路",
+    "address_string": "白河區康樂路上(白河市場對面)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 12:41:00.0"
+}

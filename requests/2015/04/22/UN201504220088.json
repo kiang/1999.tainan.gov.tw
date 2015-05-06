@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504220088",
+    "requested_datetime": "2015-04-22 10:53:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "動物救援",
+    "agency": "0",
+    "subproject": "遊蕩犬隻捕捉管制",
+    "description": "安平區永華十二街113巷約16號14號12號附近中庭 捕犬",
+    "address_string": "安平區永華十二街113巷約16號14號12號附近中庭",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-29 10:53:00.0"
+}
