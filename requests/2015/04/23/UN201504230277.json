@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504230277",
+    "requested_datetime": "2015-04-23 17:12:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "安平區",
+    "service_name": "道路維修",
+    "agency": "0",
+    "subproject": "路面掏空、塌陷",
+    "description": "安平區中華西路二段與永華路二段路口(往北100公尺處)中華西路上   塌陷",
+    "address_string": "安平區中華西路二段與永華路二段路口(往北100公尺處)中華西路上",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-30 17:12:00.0"
+}

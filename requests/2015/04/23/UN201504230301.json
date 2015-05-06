@@ -1,0 +1,19 @@
+{
+    "service_request_id": "UN201504230301",
+    "requested_datetime": "2015-04-23 18:23:00.0",
+    "status": "未處理",
+    "keyword": "0",
+    "area": "東區",
+    "service_name": "違規停車",
+    "agency": "0",
+    "subproject": "違規停車",
+    "description": "東區大學路西段(香格里拉飯店對面人行道) 違停",
+    "address_string": "東區大學路西段(香格里拉飯店對面人行道)",
+    "lat": "0",
+    "long": "0",
+    "service_notice": {
+
+    },
+    "updated_datetime": "null",
+    "expected_datetime": "2015-04-30 18:23:00.0"
+}
